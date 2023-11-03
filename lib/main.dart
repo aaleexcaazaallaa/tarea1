@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         routerConfig: router,
         debugShowCheckedModeBanner: false,
         theme: AppTheme(selectedColor: 3).theme(),
-        title: 'Seneca',
+        title: 'Tarea1',
       ),
     );
   }
