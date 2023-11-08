@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>800276532765-1j14n9erq83q7pm93f964vh52gdvu2ar.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.800276532765-1j14n9erq83q7pm93f964vh52gdvu2ar</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBz6EN2SvNDHnSXwSz7V6kLhucPfLXiZUs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>800276532765</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tarea1</string>
+	<key>PROJECT_ID</key>
+	<string>isenecafirebasealejandro</string>
+	<key>STORAGE_BUCKET</key>
+	<string>isenecafirebasealejandro.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:800276532765:ios:66a0dd499abb78c2e000f4</string>
+</dict>
+</plist>

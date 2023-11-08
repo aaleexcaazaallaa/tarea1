@@ -27,7 +27,7 @@ class _LoginScreen extends State<LoginScreen> {
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
               const SizedBox(height: 80),
-              const Text("PANTALLA LOGIN"),
+              const Text("PANTALLA LOGIN", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),),
               const SizedBox(height: 20),
               TextField(
                 cursorColor: Colors.white,

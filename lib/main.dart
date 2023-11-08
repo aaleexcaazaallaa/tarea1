@@ -1,10 +1,16 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:tarea1/config/theme/app_theme.dart';
+import 'package:tarea1/firebase_options.dart';
 import 'package:tarea1/presentation/providers/provider.dart';
 import 'package:tarea1/router/router.dart';
 
-void main() {
+void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform
+  );
   runApp(const MyApp());
 }
 
